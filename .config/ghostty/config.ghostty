@@ -1,0 +1,30 @@
+term = xterm-256color
+
+# Theme
+theme = GitHub Dark Default
+
+# Font settings
+font-style = medium
+font-size = 18
+
+# Window appearance
+window-decoration = true
+window-padding-balance = true
+background-opacity = 0.95
+background-blur-radius = 15
+window-width = 110
+window-height = 30
+
+# macOS-specific appearance
+macos-titlebar-style = tabs
+macos-titlebar-proxy-icon = hidden
+macos-option-as-alt = true
+
+# Shell integration
+shell-integration = zsh
+
+# Keyboard shortcuts
+keybind = cmd+r=reload_config
+
+# Shader
+custom-shader = ./shaders/glow-rgbsplit-twitchy.glsl
