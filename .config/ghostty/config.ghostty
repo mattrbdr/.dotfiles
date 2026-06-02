@@ -26,5 +26,3 @@ shell-integration = zsh
 # Keyboard shortcuts
 keybind = cmd+r=reload_config
 
-# Shader
-custom-shader = ./shaders/glow-rgbsplit-twitchy.glsl
