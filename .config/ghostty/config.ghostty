@@ -6,6 +6,7 @@ theme = GitHub Dark Default
 # Font settings
 font-style = medium
 font-size = 18
+font-family = "MesloLGS NF"
 
 # Window appearance
 window-decoration = true
@@ -25,4 +26,3 @@ shell-integration = zsh
 
 # Keyboard shortcuts
 keybind = cmd+r=reload_config
-
