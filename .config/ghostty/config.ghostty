@@ -1,7 +1,7 @@
 term = xterm-256color
 
 # Theme
-theme = GitHub Dark Default
+theme = Ayu
 
 # Font settings
 font-style = medium
